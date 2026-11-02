@@ -25,7 +25,7 @@ hashbrown = { version = "=0.17.1", default-features = false, features = ["raw-en
 memchr = "=2.8.2"
 smallvec = "=1.15.1"
 bumpalo = "=3.20.3"
-xxhash-rust = { version = "=0.8.15", features = ["xxh3"] }
+xxhash-rust = { version = "=0.8.19", features = ["xxh3"] }
 flate2 = "=1.1.10"
 jiff = { version = "=0.2.37", default-features = false, features = ["std"] }
 
